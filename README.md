@@ -56,19 +56,19 @@ Diseño estrategias SEO y flujos automatizados que:
   </a>
 </p>
 
-<p align="left">
-  <a href="https://dupavi.es" target="_blank">
-    <img
-      src="https://img.shields.io/badge/DUPAVI.ES-f97316?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Web dupavi.es"
-    />
-  </a>
-</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank">
     <img
       src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn - Eduard Pampalona Viladot"
+    />
+  </a>
+  &nbsp;
+  <a href="https://dupavi.es" target="_blank">
+    <img
+      src="https://img.shields.io/badge/DUPAVI.ES-f97316?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Web dupavi.es"
     />
   </a>
 </p>
