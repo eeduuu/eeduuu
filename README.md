@@ -1,7 +1,7 @@
 # 👋 Hola, soy Eduard Pampalona Viladot
 
-**Consultor SEO técnico & Automatización con IA (GPTs, Make, n8n)**  
-Ayudo a que webs y negocios digitales ganen tráfico orgánico y eficiencia, combinando **SEO técnico**, **datos** y **workflows automatizados con IA**.
+**Consultor SEO Técnico & Especialista en Automatizaciones con IA (GPTs, Make, n8n)**  
+Ayudo a negocios digitales a ganar tráfico orgánico y eficiencia, combinando **SEO técnico**, **datos** y **workflows automatizados con IA**.
 
 ---
 
