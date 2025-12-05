@@ -1,34 +1,40 @@
 # 👋 Hola, soy Eduard Pampalona Viladot
 
-**Consultor SEO Técnico & Especialista en Automatizaciones con IA (GPTs, Make, n8n)**  
-Ayudo a negocios digitales a ganar más tráfico orgánico cualificado, mejorar la eficiencia web y automatizar procesos para ahorrar costos y horas de trabajo combinando **SEO técnico**, **datos** y **workflows automatizados con IA**.
+**Consultor SEO técnico & Automatización con IA (GPTs, Make, n8n)**  
+Diseño estrategias SEO y flujos automatizados que convierten tráfico en negocio: más visitas cualificadas, más leads y menos horas perdidas en tareas repetitivas.
 
 ---
 
-## 🔎 Qué hago
+## 🔎 En qué estoy especializado
 
-- **SEO técnico**: auditorías, arquitectura web, rastreo, indexación, Core Web Vitals...
-- **Keyword research & contenidos**: detección de oportunidades reales y planificación editorial.
-- **Automatización con IA**:  
-  - GPTs profesionales y personalizados para cada negocio.  
-  - Workflows en **Make** y **n8n**.
-- **Eficiencia de procesos**: diseño de sistemas para que el trabajo repetitivo se haga “solo” y aplico estrategias para aparecer en los resultados de los buscadores.
+- **SEO técnico avanzado**  
+  Auditorías completas, rastreo e indexación, arquitectura, interlinking, WPO, internacionalización y resolución de problemas “raros” de SEO.
+
+- **SEO local & on-page**  
+  Optimización de Google Business Profile y páginas locales, mejora de titles/metas, headings, contenidos, schema y FAQs orientadas a intención de búsqueda.
+
+- **KWR, arquitectura & contenido**  
+  Estudios de palabras clave, clustering, mapeo URL–keyword y planes de contenido listos para aplicar (AST/ASI, quick wins y roadmap priorizado).
+
+- **SEO para LLMs**  
+  Preparar sites y contenidos para que funcionen bien tanto en SERPs clásicas como en respuestas generadas por modelos como ChatGPT o Claude.
+
+- **Automatización con IA**  
+  - Workflows en **n8n** y **Make** para conectar GSC, GA4, CRM, hojas de cálculo, email, etc.  
+  - GPTs y asistentes internos (ChatGPT / Claude) para research, reporting, documentación y soporte a equipos.
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Stack principal
 
-- **SEO / Analytics:**  
-  Google Search Console, GA4, Screaming Frog, PageSpeed, Ahrefs, Semrush, Dinorank.
+- **SEO / Analytics**  
+  GSC, GA4, Looker Studio, Screaming Frog, PageSpeed, Ahrefs, Semrush, Sistrix, otras herramientas de keyword research.
 
-- **IA / LLMs:**  
-  ChatGPT, Claude, herramientas no-code/low-code, automatizaciones con modelos grandes de lenguaje.
+- **IA / LLMs**  
+  ChatGPT, Claude, modelos vía API, diseño de prompts, GPTs personalizados, flujos semi-automáticos de generación y revisión de contenido.
 
-- **Automatización:**  
-  **Make**, **n8n**, integraciones con CRM y herramientas de marketing.
-
-- **Frontend & dev básico/medio:**  
-  HTML, CSS, algo de JavaScript y pequeños proyectos para uso interno.
+- **Automatización & dev**  
+  **Make**, **n8n**, integraciones con CRM y herramientas de marketing, HTML/CSS, JavaScript básico y pequeños scripts para uso interno.
 
 ---
 
@@ -36,4 +42,3 @@ Ayudo a negocios digitales a ganar más tráfico orgánico cualificado, mejorar 
 
 - 🌐 Web: [https://dupavi.es](https://dupavi.es)  
 - 💼 LinkedIn: [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
-
