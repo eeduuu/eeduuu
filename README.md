@@ -61,9 +61,11 @@ Diseño estrategias SEO y flujos automatizados que:
     <img
       src="https://img.shields.io/badge/DUPAVI.ES-f97316?style=for-the-badge&logo=google-chrome&logoColor=white"
       alt="Web dupavi.es"
-      style="margin-right: 24px;"
     />
   </a>
+</p>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank">
     <img
       src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
