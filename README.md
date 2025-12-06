@@ -1,4 +1,4 @@
-# Eduard Pampalona Viladot
+#  👋 ¡Hola!
 
 ## 🚀 Qué soy  
 Consultor SEO técnico y especialista en automatización con IA. Ayudo a que sitios web escalen en tráfico orgánico y reduzcan tareas repetitivas con workflows inteligentes.
