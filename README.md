@@ -3,6 +3,8 @@
 ## 🚀 Qué soy  
 Consultor SEO técnico y especialista en automatización con IA. Ayudo a que sitios web escalen en tráfico orgánico y reduzcan tareas repetitivas con workflows inteligentes.
 
+Me especializo en SEO técnico y automatizaciones que hacen el trabajo más rápido, más limpio y más escalable.
+
 ---
 
 ## 💼 Qué hago  
@@ -13,8 +15,20 @@ Consultor SEO técnico y especialista en automatización con IA. Ayudo a que sit
 
 ---
 
+## 🧠 Cómo trabajo   
+1) Diagnóstico técnico.
+2) Priorización por impacto.
+3) Automatizaciones para quitar tareas repetitivas.
+4) Ejecución + seguimiento.
+5) Iteración basada en datos.
+
+Hasta hoy, he creado automatizaciones internas para acelerar análisis SEO, clustering, reporting, validaciones técnicas, tareas de comptabilidad y mejoras para marketing.
+
+---
+
+
 ## 🧰 Mi stack habitual  
-GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT / Claude / Gemini · Make · n8n · HTML/CSS · JS · Python
+GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/Claude/Gemini · Make · n8n · HTML/CSS · JS · Python.
 
 ---
 
