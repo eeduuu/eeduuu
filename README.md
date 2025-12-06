@@ -27,15 +27,15 @@ He creado automatizaciones internas para acelerar análisis SEO, clustering, rep
 ---
 
 
-## ⚙️ Stack habitual 🧩
+## ⚙️ Stack habitual
 GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/Claude/Gemini · Make · n8n · HTML/CSS · JS · Python.
 
 ---
 
-## ✉️ ¿Hablamos?
+## 📨 ¿Hablamos?
 
-- 🌐 Web: [https://dupavi.es](https://dupavi.es)  
-- 💼 LinkedIn: [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
+- 🖥️ Web: [https://dupavi.es](https://dupavi.es)  
+- 🔗 LinkedIn: [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
 
 <p align="left">
   <a href="https://dupavi.es" target="_blank"><img src="https://img.shields.io/badge/DUPAVI.ES-f97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web dupavi.es" /></a> &nbsp; <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
