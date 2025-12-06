@@ -8,10 +8,10 @@ Me especializo en SEO técnico y automatizaciones que hacen el trabajo más ráp
 ---
 
 ## 🛠️ Qué hago
-- SEO técnico & on-page: auditorías, optimización, arquitectura, interlinking, WPO, local/nacional/internacional.  
-- Keyword research, clustering & contenido: mapeo URL–keyword, estrategia de contenido, quick-wins.  
-- SEO “IA-ready”: optimización para SERPs tradicionales y para visibilidad en motores basados en LLM.  
-- Automatización & pipelines: integraciones con Make/n8n, automatización de procesos, generación & revisión de contenido con GPTs.
+- SEO técnico ON-page (& OFF-page básico): auditorías, optimización, arquitectura, interlinking, WPO, local/nacional/internacional...
+- Keyword research, clustering & contenido: mapeo URL–keyword, estrategia de contenido, quick-wins.
+- SEO “IA-ready”: optimización para SERPs tradicionales y para visibilidad en motores basados en LLM.
+- Automatización & pipelines: integraciones con Make/n8n, automatización de procesos, generación y revisión de contenido con GPTs.
 
 ---
 
@@ -28,13 +28,13 @@ He creado automatizaciones internas para acelerar análisis SEO, clustering, rep
 
 
 ## ⚙️ Stack habitual
-GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/Claude/Gemini · Make · n8n · HTML/CSS · JS · Python.
+GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/Claude/Gemini · Make/n8n · HTML/CSS · JS · Python.
 
 ---
 
 ## 📩 ¿Hablamos?
 
-- 🖥️ Web: [https://dupavi.es](https://dupavi.es)  
+- 🖥️ Web: [https://dupavi.es](https://dupavi.es)
 - 🧑‍💼 LinkedIn: [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
 
 <p align="left">
