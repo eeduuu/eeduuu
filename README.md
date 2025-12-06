@@ -22,7 +22,7 @@ Me especializo en SEO técnico y automatizaciones que hacen el trabajo más ráp
 4) Ejecución + seguimiento.
 5) Iteración basada en datos.
 
-Hasta hoy, he creado automatizaciones internas para acelerar análisis SEO, clustering, reporting, validaciones técnicas, tareas de comptabilidad y mejoras para marketing.
+He creado automatizaciones internas para acelerar análisis SEO, clustering, reporting, validaciones técnicas, tareas de comptabilidad y mejoras para marketing.
 
 ---
 
