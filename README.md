@@ -8,7 +8,7 @@ Me especializo en SEO técnico y automatizaciones que hacen el trabajo más ráp
 ---
 
 ## 💼 Qué hago  
-- SEO técnico & on-page: auditorías, optimización, arquitectura, interlinking, WPO, internacionalización.  
+- SEO técnico & on-page: auditorías, optimización, arquitectura, interlinking, WPO, local/nacional/internacional.  
 - Keyword research, clustering & contenido: mapeo URL–keyword, estrategia de contenido, quick-wins.  
 - SEO “IA-ready”: optimización para SERPs tradicionales y para visibilidad en motores basados en LLM.  
 - Automatización & pipelines: integraciones con Make/n8n, automatización de procesos, generación & revisión de contenido con GPTs.
