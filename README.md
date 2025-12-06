@@ -1,6 +1,6 @@
 #  🤖 Eduard Pampalona — SEO Técnico & Automatización con IA
 
-## 🚀 Qué soy  
+## 🚀 Quién soy  
 Consultor SEO técnico y especialista en automatización con IA. Ayudo a que sitios web escalen en tráfico orgánico y reduzcan tareas repetitivas con workflows inteligentes.
 
 Me especializo en SEO técnico y automatizaciones que hacen el trabajo más rápido, más limpio y más escalable.
@@ -27,7 +27,7 @@ He creado automatizaciones internas para acelerar análisis SEO, clustering, rep
 ---
 
 
-## 🧰 Mi stack habitual  
+## 🧰 Stack habitual  
 GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/Claude/Gemini · Make · n8n · HTML/CSS · JS · Python.
 
 ---
