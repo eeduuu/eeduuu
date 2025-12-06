@@ -1,13 +1,13 @@
 #  🤖 Eduard Pampalona — SEO Técnico & Automatización con IA
 
-## 🚀 Quién soy  
+## 👤 Quién soy
 Consultor SEO técnico y especialista en automatización con IA. Ayudo a que sitios web escalen en tráfico orgánico y reduzcan tareas repetitivas con workflows inteligentes.
 
 Me especializo en SEO técnico y automatizaciones que hacen el trabajo más rápido, más limpio y más escalable.
 
 ---
 
-## 💼 Qué hago  
+## 🛠️ Qué hago
 - SEO técnico & on-page: auditorías, optimización, arquitectura, interlinking, WPO, local/nacional/internacional.  
 - Keyword research, clustering & contenido: mapeo URL–keyword, estrategia de contenido, quick-wins.  
 - SEO “IA-ready”: optimización para SERPs tradicionales y para visibilidad en motores basados en LLM.  
@@ -15,7 +15,7 @@ Me especializo en SEO técnico y automatizaciones que hacen el trabajo más ráp
 
 ---
 
-## 🧠 Cómo trabajo   
+## 🧠 Cómo trabajo
 1) Diagnóstico técnico.
 2) Priorización por impacto.
 3) Automatizaciones para quitar tareas repetitivas.
@@ -27,12 +27,12 @@ He creado automatizaciones internas para acelerar análisis SEO, clustering, rep
 ---
 
 
-## 🧰 Stack habitual  
+## ⚙️ Stack habitual 🧩
 GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/Claude/Gemini · Make · n8n · HTML/CSS · JS · Python.
 
 ---
 
-## 📫 ¿Hablamos?
+## ✉️ ¿Hablamos?
 
 - 🌐 Web: [https://dupavi.es](https://dupavi.es)  
 - 💼 LinkedIn: [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
