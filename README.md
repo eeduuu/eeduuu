@@ -1,4 +1,4 @@
-#  🤖 Eduard Pampalona — Consultor SEO Técnico & Especialista en Automatizaciones con IA
+#  Hola, soy Eduard 👋
 
 ![Perfil](https://img.shields.io/badge/Perfil-Consultor%20SEO%20Técnico-blueviolet)
 ![Especialidad](https://img.shields.io/badge/Especialidad-Automatizaciones%20IA-blue)
