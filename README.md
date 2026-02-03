@@ -1,5 +1,12 @@
 #  🤖 Eduard Pampalona — SEO Técnico & Automatización con IA
 
+![Perfil](https://img.shields.io/badge/Perfil-Especialista%20IA-blueviolet)
+![Enfoque](https://img.shields.io/badge/Enfoque-Automatización%20y%20Open%20Source-blue)
+![Idioma](https://img.shields.io/badge/Idioma-Español-red)
+
+![Eduard Pampalona - Consultor SEO Técnico y Especialista en Automatizaciones con IA](https://github.com/user-attachments/assets/7fa534d3-8271-4561-95c6-786bc1dc8fc3)
+
+
 ## 👤 Quién soy
 Consultor SEO técnico y especialista en automatización con IA. Ayudo a que sitios web escalen en tráfico orgánico y reduzcan tareas repetitivas con workflows inteligentes.
 
