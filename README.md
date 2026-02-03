@@ -1,4 +1,4 @@
-#  Hola, soy Eduard 👋
+#  ¡Hola! 👋
 
 ![Perfil](https://img.shields.io/badge/Perfil-Consultor%20SEO%20Técnico-blueviolet)
 ![Especialidad](https://img.shields.io/badge/Especialidad-Automatizaciones%20IA-blue)
