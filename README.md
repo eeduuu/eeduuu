@@ -46,6 +46,3 @@ GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/C
 <p align="left">
  <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
 </p>
-
----
-<sub>**Keywords:** Consultor SEO Técnico, Automatización de Procesos, IA, n8n, Make, Web Scraping, Python.</sub>
