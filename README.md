@@ -6,7 +6,8 @@
 ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
 
 ![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/7fa534d3-8271-4561-95c6-786bc1dc8fc3)
-![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/1eaa81fd-0412-4658-9e7c-377baa31aa82)
+![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/79d96c39-d789-48f6-bd85-8a55c7efbbc9)
+
 
 ## 👤 Quién soy
 Estratega digital y especialista en automatización. No me limito a optimizar webs; diseño ecosistemas digitales que dominan su sector. 
