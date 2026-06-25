@@ -6,7 +6,8 @@
 ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
 
 ![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/7fa534d3-8271-4561-95c6-786bc1dc8fc3)
-<img width="1467" height="1465" alt="Señalando Izquierda Feliz - copia" src="https://github.com/user-attachments/assets/390c67b2-6592-4904-a11b-673ad3ec2411" />
+<img width="4032" height="1816" alt="Mente Volada" src="https://github.com/user-attachments/assets/0d4c8cf5-fdb9-4fbe-abef-56dd1af7cb27" />
+
 
 
 ## 👤 Quién soy
