@@ -6,6 +6,8 @@
 ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
 
 ![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/7fa534d3-8271-4561-95c6-786bc1dc8fc3)
+<img width="1467" height="1465" alt="Señalando Izquierda Feliz - copia" src="https://github.com/user-attachments/assets/390c67b2-6592-4904-a11b-673ad3ec2411" />
+
 
 ## 👤 Quién soy
 Estratega digital y especialista en automatización. No me limito a optimizar webs; diseño ecosistemas digitales que dominan su sector. 
