@@ -6,8 +6,7 @@
 ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
 
 ![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/7fa534d3-8271-4561-95c6-786bc1dc8fc3)
-![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/0d4c8cf5-fdb9-4fbe-abef-56dd1af7cb27)
-
+![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/437af56b-b4d0-4d03-b9f4-f303bd40607d)
 
 
 ## 👤 Quién soy
