@@ -1,41 +1,42 @@
 #  ¡Hola! 👋
 
-![Perfil](https://img.shields.io/badge/Perfil-Consultor%20SEO%20Técnico-blueviolet)
-![Especialidad](https://img.shields.io/badge/Especialidad-Automatizaciones%20IA-blue)
+![Perfil](https://img.shields.io/badge/Perfil-Estratega%20Digital-blueviolet)
+![Especialidad](https://img.shields.io/badge/Especialidad-Arquitectura%20SEO%20%26%20IA-blue)
 ![Tecnologías](https://img.shields.io/badge/Stack-n8n%20%7C%20Make%20%7C%20LLMs-orange)
 ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
 
-![Eduard Pampalona - Consultor SEO Técnico y Especialista en Automatizaciones con IA](https://github.com/user-attachments/assets/7fa534d3-8271-4561-95c6-786bc1dc8fc3)
+![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/7fa534d3-8271-4561-95c6-786bc1dc8fc3)
 
 ## 👤 Quién soy
-Consultor SEO técnico y especialista en automatización con IA. Ayudo a que sitios web escalen en tráfico orgánico y reduzcan tareas repetitivas con workflows inteligentes.
+Estratega digital y especialista en automatización. No me limito a optimizar webs; diseño ecosistemas digitales que dominan su sector. 
 
-Me especializo en SEO técnico y automatizaciones que hacen el trabajo más rápido, más limpio y más escalable.
+Combino la ingeniería SEO con la automatización de procesos mediante IA para construir posicionamientos sólidos, escalar la visibilidad y garantizar el control del relato digital.
 
 ---
 
 ## 🛠️ Qué hago
-- SEO técnico ON-page (& OFF-page básico): auditorías, optimización, arquitectura, interlinking, WPO, local/nacional/internacional...
-- Keyword research, clustering & contenido: mapeo URL–keyword, estrategia de contenido, quick-wins.
-- SEO “IA-ready”: optimización para SERPs tradicionales y para visibilidad en motores basados en LLM.
-- Automatización & pipelines: integraciones con Make/n8n, automatización de procesos, generación y revisión de contenido con GPTs.
+- **Posicionamiento estratégico & autoridad:** Diseño de arquitecturas de información, mapeo de intenciones de búsqueda y dominio del relato (EEAT).
+- **Ingeniería SEO & rendimiento:** Auditorías de alto nivel, optimización de rastreo (Crawl Budget), WPO y estructuración técnica en entornos locales e internacionales.
+- **SEO "IA-ready":** Optimización de activos digitales para capturar cuota de pantalla tanto en SERPs tradicionales como en motores de búsqueda generativos (LLMs).
+- **Pipelines de automatización:** Integraciones complejas con Make/n8n para eliminar fricción operativa, desde sistematización de auditorías hasta generación de flujos de contenido con IA.
 
 ---
 
 ## 🧠 Cómo trabajo
-1) Diagnóstico técnico.
-2) Priorización por impacto.
-3) Automatizaciones para quitar tareas repetitivas.
-4) Ejecución + seguimiento.
-5) Iteración basada en datos.
+1) **Diagnóstico de vulnerabilidades:** Identificación de brechas de visibilidad e incomparecencias digitales.
+2) **Priorización estratégica:** Foco absoluto en acciones de alto impacto y rentabilidad.
+3) **Sistematización:** Despliegue de automatizaciones para operar a escala y sin cuellos de botella.
+4) **Ejecución y control:** Monitorización e iteración continua basada en analítica avanzada.
 
-He creado automatizaciones internas para acelerar análisis SEO, clustering, reporting, validaciones técnicas, tareas de comptabilidad y mejoras para marketing.
+*A nivel operativo, desarrollo automatizaciones propias para acelerar análisis SEO, clustering, reporting masivo, validaciones técnicas y procesos transversales de marketing.*
 
 ---
 
 
 ## ⚙️ Stack habitual
-GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/Claude/Gemini · Make/n8n · HTML/CSS · JS · Python.
+- **Análisis & datos:** GSC · GA4 · Screaming Frog · PageSpeed · DinoRANK · ...
+- **Ingeniería & automatización:** Make / n8n · Python · HTML/CSS · JS · ...
+- **Inteligencia Artificial:** OpenAI (ChatGPT) · Anthropic (Claude) · Google (Gemini) · ...
 
 ---
 
@@ -44,5 +45,5 @@ GSC · GA4 · Screaming Frog · PageSpeed · Ahrefs/Semrush/Sistrix · ChatGPT/C
 🧑‍💼 [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
 
 <p align="left">
- <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
+ <a href="https://www.linkedin.com/in/eeduuu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
 </p>
