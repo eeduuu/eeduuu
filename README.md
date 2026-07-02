@@ -5,8 +5,6 @@
 ![Tecnologías](https://img.shields.io/badge/Stack-Analítica%20%7C%20Automatización%20%7C%20LLMs-orange)
 ![Idioma](https://img.shields.io/badge/Idioma-Español-red)
 
-![Eduard Pampalona - Estratega Digital y Especialista en Automatización](https://github.com/user-attachments/assets/79d96c39-d789-48f6-bd85-8a55c7efbbc9)
-
 
 ## 👤 Quién soy
 Estratega digital y especialista en automatización. No me limito a optimizar webs; diseño ecosistemas digitales que dominan su sector. 
