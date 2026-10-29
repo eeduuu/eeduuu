@@ -1,17 +1,13 @@
 # Hola, soy Eduard
 
-Consultor SEO en **DUPAVI**, desde Lleida y en remoto.
-
-Una auditoría SEO no vale por encontrar cien errores. Vale cuando te ayuda a decidir por dónde empezar.
+Consultor SEO en **DUPAVI** y creador de proyectos propios con IA. Desde Lleida.
 
 ---
 
 ## Qué hago
-- **Auditorías SEO** locales, nacionales e internacionales. Entrego pocas prioridades, ordenadas y explicadas: qué hacer, por qué va primero y qué puede esperar.
-- **Análisis en vídeo** de las webs de negocios conocidos, en YouTube.
-
-## Qué hay en este GitHub
-Guías en español de herramientas que uso en mi día a día: IA en local (Claude Code con Ollama, Claude Desktop, OpenClaw), automatización con n8n y voz con Chatterbox. Las comparto tal como me funcionan.
+- **SEO, con DUPAVI:** auditorías locales, nacionales e internacionales, con pocas prioridades, ordenadas y explicadas: qué hacer, por qué va primero y qué puede esperar.
+- **Proyectos propios con IA:** herramientas, webs y automatizaciones, tengan que ver con el SEO o no.
+- **Guías en español** de lo que uso y me funciona: IA en local (Claude Code con Ollama, Claude Desktop, OpenClaw), automatización con n8n, voz con Chatterbox…
 
 ## Herramientas de trabajo
 - **Análisis y datos:** Search Console · GA4 · Screaming Frog · PageSpeed · DinoRANK
