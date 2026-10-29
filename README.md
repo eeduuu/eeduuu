@@ -1,41 +1,25 @@
-#  ¡Hola! 👋
+# Hola, soy Eduard
 
-![Perfil](https://img.shields.io/badge/Perfil-Estratega%20Digital-blueviolet)
-![Especialidad](https://img.shields.io/badge/Especialidad-Arquitectura%20SEO%20%26%20IA-blue)
-![Tecnologías](https://img.shields.io/badge/Stack-Analítica%20%7C%20Automatización%20%7C%20LLMs-orange)
-![Idioma](https://img.shields.io/badge/Idioma-Español-red)
+Consultor SEO en **DUPAVI**, desde Lleida y en remoto.
 
-
-## 👤 Quién soy
-Estratega digital y especialista en automatización. No me limito a optimizar webs; diseño ecosistemas digitales que dominan su sector. 
-
-Combino la ingeniería SEO con la automatización de procesos mediante IA para construir posicionamientos sólidos, escalar la visibilidad y garantizar el control del relato digital.
+Una auditoría SEO no vale por encontrar cien errores. Vale cuando te ayuda a decidir por dónde empezar.
 
 ---
 
-## 🛠️ Qué hago
-- **Posicionamiento estratégico & autoridad:** Diseño de arquitecturas de información, mapeo de intenciones de búsqueda y dominio del relato (EEAT).
-- **Ingeniería SEO & rendimiento:** Auditorías de alto nivel, optimización de rastreo (Crawl Budget), WPO y estructuración técnica en entornos locales e internacionales.
-- **SEO "IA-ready":** Optimización de activos digitales para capturar cuota de pantalla tanto en SERPs tradicionales como en motores de búsqueda generativos (LLMs).
-- **Pipelines de automatización:** Integraciones complejas con Make/n8n para eliminar fricción operativa, desde sistematización de auditorías hasta generación de flujos de contenido con IA.
+## Qué hago
+- **Auditorías SEO** locales, nacionales e internacionales. Entrego pocas prioridades, ordenadas y explicadas: qué hacer, por qué va primero y qué puede esperar.
+- **Análisis en vídeo** de las webs de negocios conocidos, en YouTube.
 
----
+## Qué hay en este GitHub
+Guías en español de herramientas que uso en mi día a día: IA en local (Claude Code con Ollama, Claude Desktop, OpenClaw), automatización con n8n y voz con Chatterbox. Las comparto tal como me funcionan.
 
-## 🧠 Cómo trabajo
-1) **Diagnóstico de vulnerabilidades:** Identificación de brechas de visibilidad e incomparecencias digitales.
-2) **Priorización estratégica:** Foco absoluto en acciones de alto impacto y rentabilidad.
-3) **Sistematización:** Despliegue de automatizaciones para operar a escala y sin cuellos de botella.
-4) **Ejecución y control:** Monitorización e iteración continua basada en analítica avanzada.
+## Herramientas de trabajo
+- **Análisis y datos:** Search Console · GA4 · Screaming Frog · PageSpeed · DinoRANK
+- **Código y automatización:** Python · HTML/CSS · JS · Make / n8n
+- **IA:** Claude · ChatGPT · Gemini
 
-*A nivel operativo, desarrollo automatizaciones propias para acelerar análisis SEO, clustering, reporting masivo, validaciones técnicas y procesos transversales de marketing.*
-
----
-
-
-## ⚙️ Stack habitual
-- **Análisis & datos:** GSC · GA4 · Screaming Frog · PageSpeed · DinoRANK · ...
-- **Ingeniería & automatización:** Make / n8n · Python · HTML/CSS · JS · ...
-- **Inteligencia Artificial:** OpenAI (ChatGPT) · Anthropic (Claude) · Google (Gemini) · ...
+## Formación
+Máster de SEO y Máster de IA (BIG school).
 
 ---
 
